@@ -1,3 +1,3 @@
-tOpen a text editor. Now write a couple of lines of text, perhaps say hello, and save the file as readme.txt in the 'hello-world' folder you created s
+Next check the status of your repository to find out if there have been changes. Below in this terminal, you should still be within the 'hello-world' you created. See if there are changes listed:
 
-Another line
+
